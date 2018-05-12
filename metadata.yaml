@@ -1,0 +1,38 @@
+_repo: The-Circuit-Riders_24543
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, Jack
+    - Schoenherr, John (John Carl)
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: FitzPatrick, R. C.
+    gutenberg_agent_id: '26570'
+    url: http://www.gutenberg.org/2009/agents/26570
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Police -- Fiction'
+- !lcsh 'Pittsburgh (Pa.) -- Fiction'
+- !lcsh 'Science fiction, American'
+title: The Circuit Riders
+url: http://www.gutenberg.org/ebooks/24543
